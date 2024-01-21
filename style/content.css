@@ -38,6 +38,7 @@ body {
 
 .nav__li:hover {
     color: #7e2b2b;
+    cursor: pointer;
 }
 
 .nav__li a {

@@ -7,10 +7,14 @@
 }
 header{
 margin: 10% auto;
+
+}
+body{
+    background:  rgba(220, 179, 82, 0.522);
 }
 
 .nav {
-    background-color: rgba(227, 200, 24);
+    background-color: rgb(219, 186, 78);
     text-align: center;
     position: fixed;
     width: 100%;
